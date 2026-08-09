@@ -1,0 +1,6 @@
+[submodule "ordering"]
+	path = ordering
+	url = git@github.com:ricardostarosa84/algashop-ordering.git
+[submodule "docs"]
+	path = docs
+	url = git@github.com:ricardostarosa84/algashop-docs.git
